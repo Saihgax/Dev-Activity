@@ -31,7 +31,7 @@ function organizeFn(srcPath){ //We obtained the path for random folder
         let entityPath = path.join(newDest, entityName);
         let designatedEntityFolder = isInTypes(path.extname(entityPath))
     }
-    // skdjnbgkewjrgberigbgbewbk
+    // skdjnbgkewjrgberi
 
 }
 
